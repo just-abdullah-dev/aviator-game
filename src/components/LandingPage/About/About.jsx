@@ -50,7 +50,7 @@ export default function About() {
         more fun and challenges!
       </div> */}
       <div>
-        India's first leading real money making Aviator game where you can start
+        India&apos;s first leading real money making Aviator game where you can start
         earning instantly and withdraw profit directly to your Bank account
         using UPI. You can change your destiny using this app.<br/><br/> Supported payment
         Apps are PhonePe, Gpay, Paytm, all other UPI Apps etc.
